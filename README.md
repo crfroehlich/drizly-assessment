@@ -15,7 +15,7 @@ findMedian([1,6,3,5,8,9,4,10,2,7]) => 5.5
 
 The solution to the problem is located in `drizly.test.ts`, which is written in TypeScript. You can run this test by following these steps:
 
-1. `git clone git@github.com:crfroehlich/drizly-assessment.git`
+1. Unzip `drizly-assessment.zip` to a folder
 1. `cd drizly-assessment`
 1. `yarn install`
 1. `yarn test`
